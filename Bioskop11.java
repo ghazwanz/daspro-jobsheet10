@@ -27,7 +27,7 @@ public class Bioskop11 {
         }
 
         System.out.println("Penonton pada baris ke-3: ");
-        for (int i = 0; i < penonton.length; i++) {
+        for (int i = 0; i < penonton[2].length; i++) {
             System.out.println(penonton[2][i]);
         }
 
